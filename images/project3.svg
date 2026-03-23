@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Food Menu Website placeholder</title>
+  <desc id="desc">A responsive food menu preview with categorized items, prices, food imagery, and a mobile-friendly layout.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08111b" />
+      <stop offset="50%" stop-color="#0d1b2a" />
+      <stop offset="100%" stop-color="#09131d" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#59e7ff" />
+      <stop offset="100%" stop-color="#7dffd8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)" />
+  <circle cx="230" cy="170" r="150" fill="#59e7ff" opacity="0.08" />
+  <rect x="86" y="76" width="1028" height="748" rx="38" fill="#091725" stroke="#224562" />
+  <text x="130" y="152" fill="#f5fbff" font-family="Space Grotesk, Arial, sans-serif" font-size="42" font-weight="700">Food Menu Website</text>
+  <text x="130" y="196" fill="#a8bfd0" font-family="Inter, Arial, sans-serif" font-size="24">Responsive digital menu with categories, prices, food photos, and mobile-first clarity.</text>
+  <rect x="130" y="248" width="340" height="496" rx="30" fill="#0d2033" stroke="#214562" />
+  <text x="164" y="302" fill="#75ffd5" font-family="JetBrains Mono, monospace" font-size="22">CATEGORIES</text>
+  <rect x="164" y="334" width="190" height="42" rx="20" fill="url(#accent)" />
+  <rect x="164" y="398" width="242" height="16" rx="8" fill="#1d3e57" />
+  <rect x="164" y="438" width="228" height="16" rx="8" fill="#1d3e57" />
+  <rect x="164" y="478" width="220" height="16" rx="8" fill="#1d3e57" />
+  <rect x="164" y="518" width="204" height="16" rx="8" fill="#1d3e57" />
+  <rect x="520" y="248" width="560" height="234" rx="30" fill="#0d2033" stroke="#214562" />
+  <rect x="554" y="284" width="184" height="162" rx="22" fill="#12344b" />
+  <circle cx="646" cy="366" r="56" fill="#1f536f" />
+  <rect x="770" y="302" width="242" height="22" rx="11" fill="#59e7ff" opacity="0.8" />
+  <rect x="770" y="344" width="208" height="16" rx="8" fill="#1d3e57" />
+  <rect x="770" y="380" width="160" height="16" rx="8" fill="#1d3e57" />
+  <rect x="770" y="418" width="116" height="38" rx="19" fill="url(#accent)" />
+  <rect x="520" y="510" width="560" height="234" rx="30" fill="#0d2033" stroke="#214562" />
+  <rect x="554" y="546" width="184" height="162" rx="22" fill="#12344b" />
+  <circle cx="646" cy="628" r="56" fill="#1f536f" />
+  <rect x="770" y="564" width="242" height="22" rx="11" fill="#59e7ff" opacity="0.8" />
+  <rect x="770" y="606" width="208" height="16" rx="8" fill="#1d3e57" />
+  <rect x="770" y="642" width="160" height="16" rx="8" fill="#1d3e57" />
+  <rect x="770" y="680" width="116" height="38" rx="19" fill="url(#accent)" />
+  <rect x="920" y="96" width="150" height="102" rx="28" fill="#0d2033" stroke="#214562" />
+  <rect x="948" y="118" width="94" height="12" rx="6" fill="#1d3e57" />
+  <rect x="948" y="146" width="74" height="12" rx="6" fill="#1d3e57" />
+  <rect x="948" y="172" width="54" height="12" rx="6" fill="url(#accent)" />
+</svg>

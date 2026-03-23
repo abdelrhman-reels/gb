@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Internet Cafe Menu Page placeholder</title>
+  <desc id="desc">A structured menu page preview showing categories, hourly prices, PlayStation options, and additional services.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06121e" />
+      <stop offset="52%" stop-color="#0a1827" />
+      <stop offset="100%" stop-color="#08111b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4fa8ff" />
+      <stop offset="100%" stop-color="#75ffd5" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)" />
+  <circle cx="1030" cy="160" r="170" fill="#75ffd5" opacity="0.08" />
+  <rect x="72" y="60" width="1056" height="780" rx="34" fill="#091725" stroke="#224562" />
+  <rect x="108" y="96" width="224" height="708" rx="26" fill="#0d2033" stroke="#214562" />
+  <text x="140" y="146" fill="#75ffd5" font-family="JetBrains Mono, monospace" font-size="22">MENU</text>
+  <rect x="140" y="190" width="160" height="44" rx="20" fill="url(#accent)" />
+  <rect x="140" y="258" width="136" height="18" rx="9" fill="#1d3e57" />
+  <rect x="140" y="302" width="144" height="18" rx="9" fill="#1d3e57" />
+  <rect x="140" y="346" width="152" height="18" rx="9" fill="#1d3e57" />
+  <rect x="140" y="390" width="132" height="18" rx="9" fill="#1d3e57" />
+  <rect x="372" y="96" width="720" height="126" rx="26" fill="#0d2033" stroke="#214562" />
+  <text x="412" y="152" fill="#f5fbff" font-family="Space Grotesk, Arial, sans-serif" font-size="38" font-weight="700">Internet Cafe Menu Page</text>
+  <text x="412" y="194" fill="#9fb7ca" font-family="Inter, Arial, sans-serif" font-size="24">Gaming services, hourly prices, PlayStation options, and extras.</text>
+  <rect x="372" y="258" width="226" height="226" rx="28" fill="#0d2033" stroke="#214562" />
+  <rect x="618" y="258" width="226" height="226" rx="28" fill="#0d2033" stroke="#214562" />
+  <rect x="864" y="258" width="228" height="226" rx="28" fill="#0d2033" stroke="#214562" />
+  <text x="402" y="320" fill="#59e7ff" font-family="JetBrains Mono, monospace" font-size="22">PC GAMING</text>
+  <text x="648" y="320" fill="#59e7ff" font-family="JetBrains Mono, monospace" font-size="22">PLAYSTATION</text>
+  <text x="894" y="320" fill="#59e7ff" font-family="JetBrains Mono, monospace" font-size="22">EXTRAS</text>
+  <rect x="404" y="352" width="160" height="18" rx="9" fill="#1d3e57" />
+  <rect x="404" y="392" width="118" height="54" rx="18" fill="#10263a" />
+  <rect x="650" y="352" width="160" height="18" rx="9" fill="#1d3e57" />
+  <rect x="650" y="392" width="118" height="54" rx="18" fill="#10263a" />
+  <rect x="896" y="352" width="160" height="18" rx="9" fill="#1d3e57" />
+  <rect x="896" y="392" width="118" height="54" rx="18" fill="#10263a" />
+  <rect x="372" y="518" width="720" height="286" rx="28" fill="#0d2033" stroke="#214562" />
+  <text x="410" y="576" fill="#f5fbff" font-family="Space Grotesk, Arial, sans-serif" font-size="30" font-weight="700">Menu-style service listing</text>
+  <rect x="410" y="618" width="644" height="18" rx="9" fill="#1d3e57" />
+  <rect x="410" y="658" width="612" height="18" rx="9" fill="#163147" />
+  <rect x="410" y="698" width="520" height="18" rx="9" fill="#163147" />
+  <rect x="410" y="742" width="184" height="40" rx="20" fill="url(#accent)" />
+</svg>

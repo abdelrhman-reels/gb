@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Internet Cafe Landing Page placeholder</title>
+  <desc id="desc">A dark landing page preview with pricing cards, gaming sections, service highlights, and a contact block.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05111d" />
+      <stop offset="55%" stop-color="#0a1b2d" />
+      <stop offset="100%" stop-color="#08131f" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#59e7ff" />
+      <stop offset="100%" stop-color="#7dffd8" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(114,195,232,0.12)" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)" />
+  <rect width="1200" height="900" fill="url(#grid)" opacity="0.5" />
+  <circle cx="970" cy="140" r="180" fill="#59e7ff" opacity="0.1" />
+  <rect x="72" y="60" width="1056" height="68" rx="22" fill="#0d2033" stroke="#214562" />
+  <rect x="102" y="84" width="180" height="20" rx="10" fill="url(#accent)" />
+  <rect x="808" y="84" width="90" height="16" rx="8" fill="#17324a" />
+  <rect x="918" y="84" width="90" height="16" rx="8" fill="#17324a" />
+  <rect x="1028" y="78" width="70" height="28" rx="14" fill="#14344d" stroke="#59e7ff" />
+  <rect x="88" y="168" width="662" height="252" rx="34" fill="#0c1b2b" stroke="#214562" />
+  <text x="126" y="236" fill="#a6bed2" font-family="Inter, Arial, sans-serif" font-size="28">Internet Cafe Landing Page</text>
+  <text x="126" y="310" fill="#f5fbff" font-family="Space Grotesk, Arial, sans-serif" font-size="58" font-weight="700">Gaming, pricing,</text>
+  <text x="126" y="378" fill="#f5fbff" font-family="Space Grotesk, Arial, sans-serif" font-size="58" font-weight="700">and services in one flow</text>
+  <rect x="126" y="438" width="188" height="44" rx="22" fill="url(#accent)" />
+  <rect x="330" y="438" width="180" height="44" rx="22" fill="#10263a" stroke="#2b5678" />
+  <rect x="786" y="168" width="328" height="252" rx="34" fill="#0c1b2b" stroke="#214562" />
+  <text x="822" y="228" fill="#59e7ff" font-family="JetBrains Mono, monospace" font-size="22">PRICING</text>
+  <rect x="822" y="262" width="256" height="54" rx="18" fill="#0f273a" />
+  <rect x="822" y="336" width="256" height="54" rx="18" fill="#0f273a" />
+  <rect x="88" y="462" width="320" height="160" rx="28" fill="#0c1b2b" stroke="#214562" />
+  <rect x="440" y="462" width="320" height="160" rx="28" fill="#0c1b2b" stroke="#214562" />
+  <rect x="792" y="462" width="320" height="160" rx="28" fill="#0c1b2b" stroke="#214562" />
+  <text x="118" y="520" fill="#f5fbff" font-family="Space Grotesk, Arial, sans-serif" font-size="28" font-weight="700">Gaming Zones</text>
+  <text x="470" y="520" fill="#f5fbff" font-family="Space Grotesk, Arial, sans-serif" font-size="28" font-weight="700">Services Overview</text>
+  <text x="822" y="520" fill="#f5fbff" font-family="Space Grotesk, Arial, sans-serif" font-size="28" font-weight="700">Contact Section</text>
+  <rect x="88" y="662" width="1024" height="152" rx="30" fill="#091724" stroke="#214562" />
+  <text x="126" y="728" fill="#59e7ff" font-family="JetBrains Mono, monospace" font-size="22">LANDING PAGE PREVIEW</text>
+  <rect x="126" y="748" width="220" height="18" rx="9" fill="#1c3952" />
+  <rect x="126" y="780" width="300" height="18" rx="9" fill="#132a40" />
+</svg>
